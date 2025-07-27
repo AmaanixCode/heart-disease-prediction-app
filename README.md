@@ -1,6 +1,6 @@
 # Heart Disease Prediction App 💓
 
-This is a machine learning web application that predicts the likelihood of heart disease using medical data. It was built during a summer training program at **Ikigai School of Learning**, under the guidance of **Mohammad Jari Sir**.
+This is a machine learning-powered web application that predicts the likelihood of heart disease based on a user’s medical inputs. The model is trained using data from the UCI Heart Disease dataset and deployed with an interactive UI built using Streamlit.
 
 ## 🔍 Features
 
@@ -24,5 +24,4 @@ This is a machine learning web application that predicts the likelihood of heart
 ## ▶️ Running the App
 
 1. Install dependencies:
-   ```bash
    pip install -r requirements.txt
